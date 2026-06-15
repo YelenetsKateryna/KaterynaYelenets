@@ -27,12 +27,12 @@ I am a Software Engineering student who bridges the gap between robust backend l
 
 ## 🚀 Featured Projects
 
-### 💬 [Chat-Platform-MVP](https://github.com/your-username/Chat-Platform-MVP)
+### 💬 [Chat-Platform-MVP] https://github.com/TNTU-F2-Software-Engineering/Kateryna-YELENETS-SE201-2025-2026/tree/main/Chat-Platform-MVP
 A minimal viable product of a secure chat platform focused on performance and privacy.
 * **Tech Stack:** C++, WebSockets, Git, Mermaid UML.
 * **Key Achievements:** Authored a comprehensive Software Requirements Specification (SRS); modeled asynchronous End-to-End Encryption (E2EE) data flows; managed a clean release cycle using GitHub milestones, issues, and tag releases.
 
-### 📐 [Academic & OOP Portfolio](https://github.com/your-username/software-engineering-labs)
+### 📐 [Academic & OOP Portfolio] https://github.com/TNTU-F2-Software-Engineering/Kateryna-YELENETS-SE201-2025-2026/pull/9/changes#diff-0c8fe83692a0acf2fea636d7bd275cc5d2e06c74a126107387cfc7b89513baf1
 A repository dedicated to fundamental software engineering challenges and mathematical analysis verification.
 * **Tech Stack:** C++, Python.
 * **Key Achievements:** Implemented complex class hierarchies applying core OOP principles (polymorphism, encapsulation); written structured documentation in Markdown.
